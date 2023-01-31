@@ -1,0 +1,135 @@
+.parent{
+    height: 501px;
+    background-color: darkgrey;
+    position: relative;
+    
+}
+body{
+    background-color: rgb(70, 64, 64);
+}
+header .parent{
+    display: flex;
+    justify-content: space-between;
+    
+}
+header a{
+    text-decoration: none;
+    margin-right: 100px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    color: azure;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.col-1{
+    width: 1210px;
+    height: 420px;
+    background-color: white;
+    position: absolute;
+    left: 7%;
+    top: 9%;
+    
+
+}
+h1{
+    position: absolute;
+    margin-top: 35px;
+    margin-left: 95px;
+    color: darkgoldenrod;
+}
+h2{
+    position: absolute;
+    margin-top: 153px;
+    margin-left: 85px;
+    padding: 10px;
+    color: rgb(12, 12, 11);
+}
+h3{
+    position: absolute;
+    margin-top: 9px;
+    margin-left: 688px;
+
+}
+p{
+    position: absolute;
+    margin-top: 72px;
+    margin-left: 91px;
+    padding: 10px;
+    color: black;
+}
+button{
+    position: absolute;
+    width: 160px;
+    margin-top: 224px;
+    margin-left: 146px;
+    background-color: gold;
+    border-radius: 50px;
+}
+img{
+    width: 1210px;
+    height: 420px;
+}
+
+
+
+.col-2 h3 {
+    margin-top: 66px;
+    margin-left: 42px;
+    color: darkgoldenrod;
+    
+}
+.col-2 p{
+    margin-top: 90px;
+    margin-left: 28px;
+    padding: 10px;
+
+}
+
+.col-3 h3 {
+    margin-top: 66px;
+    margin-left: 331px;
+    color: darkgoldenrod;
+    
+}
+.col-3 p{
+    margin-top: 90px;
+    margin-left: 28px;
+    padding: 10px;
+
+}
+.col-4 h3{
+    margin-top: 56px;
+    margin-left: 556px;
+    padding: 10px;
+    color: darkgoldenrod;
+
+}
+.col-5 h3{
+    margin-top: 56px;
+    margin-left: 834px;
+    padding: 10px;
+    color: darkgoldenrod;
+
+}
+
+.col-6 h3{
+    margin-top: 56px;
+    margin-left: 1075px;
+    padding: 10px;
+    color: darkgoldenrod;
+
+}
+footer{
+    text-align: center;
+}
+.text-footer {
+    text-align: center;
+    padding: 30px 0;
+    font-family: 'Ubuntu', sans-serif;
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin-left: 594px;
+    
+}
+.
